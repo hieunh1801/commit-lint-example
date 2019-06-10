@@ -1,0 +1,20 @@
+{
+  "name": "commit-lint-example",
+  "version": "1.0.0",
+  "description": "Example using commit lint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "npx git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hieunh1801/commit-lint-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hieunh1801/commit-lint-example/issues"
+  },
+  "homepage": "https://github.com/hieunh1801/commit-lint-example#readme"
+}
